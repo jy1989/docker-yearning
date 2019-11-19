@@ -14,7 +14,7 @@ docker run -itd \
   -e MYSQL_USER=root \
   -e MYSQL_PASSWORD=123 \
   -e MYSQL_DB=yearning \
-  jy1989/yearning
+  jy1989/docker-yearning
 ```
 
 Goto [Yearning Guide](https://guide.yearning.io) for more.
